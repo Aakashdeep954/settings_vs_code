@@ -1,0 +1,30 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "editor.detectIndentation": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.matchBrackets": "never",
+    "bracketPairColorizer.highlightActiveScope": true,
+    "bracketPairColorizer.showHorizontalScopeLine": false,
+    "bracketPairColorizer.showVerticalScopeLine": false,
+    "bracketPairColorizer.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.6",
+        "backgroundColor : {color}"
+    ],
+    "editor.formatOnSave": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.linkedEditing": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Cobalt2",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "bracketPairColorizer.depreciation-notice": false
+}
